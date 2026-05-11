@@ -26,7 +26,8 @@ result=np.linalg.solve(matrixA,const)
 print(result)
 
 ## Output:
-![Uploading Screenshot 2026-05-06 102614.png…]()
+<img width="825" height="765" alt="Screenshot 2026-05-11 194719" src="https://github.com/user-attachments/assets/c3941d97-ee55-4c7b-bd65-558fd338da41" />
+
 
 
 ## Result: 
